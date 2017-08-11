@@ -1,0 +1,1862 @@
+============= OnStrategyStart() started at ============ 8/4/2017 9:21:35 AM
+Mode= Live StrategyMode.Simulation= Simulation
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.49;  Date: 8/3/2017 8:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.5;  Date: 8/3/2017 8:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.5;  Date: 8/3/2017 8:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.4;  Date: 8/3/2017 9:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.42;  Date: 8/3/2017 9:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.37;  Date: 8/3/2017 9:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.58;  Date: 8/3/2017 9:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 30.08;  Date: 8/3/2017 10:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 30.08;  Date: 8/3/2017 10:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.63;  Date: 8/3/2017 10:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.57;  Date: 8/3/2017 10:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.61;  Date: 8/3/2017 11:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.4;  Date: 8/3/2017 11:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.52;  Date: 8/3/2017 11:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.63;  Date: 8/3/2017 11:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.68;  Date: 8/3/2017 12:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.63;  Date: 8/3/2017 12:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.49;  Date: 8/3/2017 12:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.53;  Date: 8/3/2017 12:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.55;  Date: 8/3/2017 1:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.65;  Date: 8/3/2017 1:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.73;  Date: 8/3/2017 1:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.69;  Date: 8/3/2017 1:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.63;  Date: 8/3/2017 2:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.5;  Date: 8/3/2017 2:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.48;  Date: 8/3/2017 2:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.53;  Date: 8/3/2017 2:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.64;  Date: 8/3/2017 3:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.51;  Date: 8/3/2017 3:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.47;  Date: 8/3/2017 3:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 30.01;  Date: 8/3/2017 3:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.99;  Date: 8/3/2017 4:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.69;  Date: 8/4/2017 8:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.69;  Date: 8/4/2017 8:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.48;  Date: 8/4/2017 8:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.47;  Date: 8/4/2017 9:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.6;  Date: 8/4/2017 9:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 29.57;  Date: 8/4/2017 9:30:00 AM
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+Strategy is running on ... SYMBOL: UVXY
+XXX. OnStrategyStart: Buying Power10505.06
+XXX.HasPosition: in strategystart: False
+========== OnStrategyStart() completed at ============= 8/4/2017 9:21:35 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:15:00 Bar end Time: 09:30:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 9:30:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 9:30:00 AM,29.63
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:30:00 Bar end Time: 09:45:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.6095; LastPrice = 29.25; ADX = 17.7503452271795; PctFromTrig = 1.21; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 9:45:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 9:45:00 AM,29.25
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:45:00 Bar end Time: 10:00:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.615; LastPrice = 29.66; ADX = 17.167475012424; PctFromTrig = -0.15; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 10:00:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 10:00:00 AM,29.66
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:00:00 Bar end Time: 10:15:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 10:15:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 10:15:00 AM,29.6
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:15:00 Bar end Time: 10:30:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 10:30:03 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 10:30:00 AM,29.19
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:30:00 Bar end Time: 10:45:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.5615; LastPrice = 29.2; ADX = 16.7744084661915; PctFromTrig = 1.22; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 10:45:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 10:45:00 AM,29.2
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:45:00 Bar end Time: 11:00:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.54; LastPrice = 29.2; ADX = 16.2876230522589; PctFromTrig = 1.15; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 11:00:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 11:00:00 AM,29.18
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:00:00 Bar end Time: 11:15:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.5375; LastPrice = 29.45; ADX = 15.716243214085; PctFromTrig = 0.3; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 11:15:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 11:15:00 AM,29.45
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:15:00 Bar end Time: 11:30:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.5315; LastPrice = 29.36; ADX = 15.102191701667; PctFromTrig = 0.58; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 11:30:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 11:30:00 AM,29.35
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:30:00 Bar end Time: 11:45:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.521; LastPrice = 29.32; ADX = 14.5320010115646; PctFromTrig = 0.68; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 11:45:02 AM
+OnBarSlice-Bar.End-Time: 8/4/2017 11:45:00 AM,29.32
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:45:00 Bar end Time: 12:00:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.5055; LastPrice = 29.33; ADX = 13.7256060564965; PctFromTrig = 0.59; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 12:00:03 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 12:00:00 PM,29.33
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:00:00 Bar end Time: 12:15:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.5; LastPrice = 29.4; ADX = 12.9768107410761; PctFromTrig = 0.34; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 12:15:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 12:15:00 PM,29.41
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:15:00 Bar end Time: 12:30:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.4965; LastPrice = 29.4; ADX = 12.1299068488509; PctFromTrig = 0.33; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 12:30:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 12:30:00 PM,29.4
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:30:00 Bar end Time: 12:45:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.476; LastPrice = 29.6; ADX = 12.4566957008792; PctFromTrig = -0.42; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 12:45:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 12:45:00 PM,29.6
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:45:00 Bar end Time: 13:00:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.4495; LastPrice = 29.46; ADX = 12.6524157842798; PctFromTrig = -0.04; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 1:00:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 1:00:00 PM,29.46
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:00:00 Bar end Time: 13:15:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.441; LastPrice = 29.52; ADX = 12.8341558617232; PctFromTrig = -0.27; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 1:15:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 1:15:00 PM,29.52
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:15:00 Bar end Time: 13:30:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.4305; LastPrice = 29.48; ADX = 13.2216809626663; PctFromTrig = -0.17; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 1:30:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 1:30:00 PM,29.48
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:30:00 Bar end Time: 13:45:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.432; LastPrice = 29.51; ADX = 13.4521226297495; PctFromTrig = -0.27; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 1:45:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 1:45:00 PM,29.51
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:45:00 Bar end Time: 14:00:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.4355; LastPrice = 29.54; ADX = 13.6661041777553; PctFromTrig = -0.36; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 2:00:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 2:00:00 PM,29.54
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:00:00 Bar end Time: 14:15:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.4315; LastPrice = 29.52; ADX = 13.8648013294749; PctFromTrig = -0.3; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 2:15:04 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 2:15:00 PM,29.54
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:15:00 Bar end Time: 14:30:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 2:30:00 PM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 29.437; LastPrice = 29.74; ADX = 15.0077941615345; PctFromTrig = -1.03; IntraDayBarSize15 = 900
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 2:30:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 2:30:00 PM,29.73
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:30:00 Bar end Time: 14:45:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.71; HistoricalBar End Time: 8/4/2017 2:45:00 PM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 2:45:03 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 2:45:00 PM,29.71
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:45:00 Bar end Time: 15:00:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.71; HistoricalBar End Time: 8/4/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.76; HistoricalBar End Time: 8/4/2017 3:00:00 PM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 3:00:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 3:00:00 PM,29.76
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:00:00 Bar end Time: 15:15:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.71; HistoricalBar End Time: 8/4/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.76; HistoricalBar End Time: 8/4/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 3:15:00 PM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 3:15:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 3:15:00 PM,29.69
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:15:00 Bar end Time: 15:30:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.71; HistoricalBar End Time: 8/4/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.76; HistoricalBar End Time: 8/4/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.79; HistoricalBar End Time: 8/4/2017 3:30:00 PM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 3:30:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 3:30:00 PM,29.79
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:30:00 Bar end Time: 15:45:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.71; HistoricalBar End Time: 8/4/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.76; HistoricalBar End Time: 8/4/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.79; HistoricalBar End Time: 8/4/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.89; HistoricalBar End Time: 8/4/2017 3:45:00 PM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 3:45:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 3:45:00 PM,29.89
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:45:00 Bar end Time: 16:00:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.71; HistoricalBar End Time: 8/4/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.76; HistoricalBar End Time: 8/4/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.79; HistoricalBar End Time: 8/4/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.89; HistoricalBar End Time: 8/4/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 4:00:00 PM
+..................Cond_DRI: False
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY OnBar() Close Report: Sent e-mail report-START
+UVXY OnBar() Close Report: Sent e-mail report-END
+Mail sent
+================== OnBar() Completed at =================  8/4/2017 4:00:02 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 4:00:00 PM,29.74
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 16:00:00 Bar end Time: 16:15:00......on: 8/4/2017 12:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.42; HistoricalBar End Time: 8/3/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.37; HistoricalBar End Time: 8/3/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.58; HistoricalBar End Time: 8/3/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 30.08; HistoricalBar End Time: 8/3/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.57; HistoricalBar End Time: 8/3/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/3/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/3/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/3/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.68; HistoricalBar End Time: 8/3/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.49; HistoricalBar End Time: 8/3/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.55; HistoricalBar End Time: 8/3/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.65; HistoricalBar End Time: 8/3/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.73; HistoricalBar End Time: 8/3/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/3/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/3/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.5; HistoricalBar End Time: 8/3/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/3/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.53; HistoricalBar End Time: 8/3/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.64; HistoricalBar End Time: 8/3/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/3/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/3/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 30.01; HistoricalBar End Time: 8/3/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.99; HistoricalBar End Time: 8/3/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.47; HistoricalBar End Time: 8/4/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.63; HistoricalBar End Time: 8/4/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.25; HistoricalBar End Time: 8/4/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.66; HistoricalBar End Time: 8/4/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.61; HistoricalBar End Time: 8/4/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.19; HistoricalBar End Time: 8/4/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.2; HistoricalBar End Time: 8/4/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.45; HistoricalBar End Time: 8/4/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.36; HistoricalBar End Time: 8/4/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.32; HistoricalBar End Time: 8/4/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 29.33; HistoricalBar End Time: 8/4/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.4; HistoricalBar End Time: 8/4/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.6; HistoricalBar End Time: 8/4/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.46; HistoricalBar End Time: 8/4/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.48; HistoricalBar End Time: 8/4/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.51; HistoricalBar End Time: 8/4/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.54; HistoricalBar End Time: 8/4/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.52; HistoricalBar End Time: 8/4/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.71; HistoricalBar End Time: 8/4/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.76; HistoricalBar End Time: 8/4/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.69; HistoricalBar End Time: 8/4/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.79; HistoricalBar End Time: 8/4/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.89; HistoricalBar End Time: 8/4/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.74; HistoricalBar End Time: 8/4/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 29.83; HistoricalBar End Time: 8/4/2017 4:15:00 PM
+UVXY - OnBar() Heart Beat email(outside of trading hours: Sent Open/Close e-mail report
+Mail sent...finally
+================== OnBar() Completed at =================  8/4/2017 4:15:01 PM
+OnBarSlice-Bar.End-Time: 8/4/2017 4:15:00 PM,29.83
+============= OnStrategyStop() started at ============ 8/4/2017 4:27:01 PM
+GetIBCurrnetPositions: No positions found for UVXY_Intra in IB Account: DU651973
+UVXY End of Day Report: Sent e-mail report-START
+UVXY End of Day Report: Sent e-mail report-END
+Mail sent
+========== OnStrategyStop() completed at ============= 8/4/2017 4:27:04 PM

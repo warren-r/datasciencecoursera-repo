@@ -1,0 +1,1591 @@
+============= OnStrategyStart() started at ============ 7/9/2017 8:27:18 AM
+Mode= Simulation StrategyMode.Simulation= Simulation
+1==6/30/2017 12:00:00 AMMode= Simulation StrategyMode.Simulation= Simulation
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.44;  Date: 6/28/2017 8:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.3;  Date: 6/28/2017 8:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.26;  Date: 6/28/2017 8:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.24;  Date: 6/28/2017 9:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.31;  Date: 6/28/2017 9:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.28;  Date: 6/28/2017 9:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.35;  Date: 6/28/2017 9:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.47;  Date: 6/28/2017 10:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.37;  Date: 6/28/2017 10:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.34;  Date: 6/28/2017 10:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.16;  Date: 6/28/2017 10:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.21;  Date: 6/28/2017 11:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.18;  Date: 6/28/2017 11:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.2;  Date: 6/28/2017 11:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.16;  Date: 6/28/2017 11:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.16;  Date: 6/28/2017 12:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.12;  Date: 6/28/2017 12:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.13;  Date: 6/28/2017 12:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.08;  Date: 6/28/2017 12:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.11;  Date: 6/28/2017 1:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.11;  Date: 6/28/2017 1:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.05;  Date: 6/28/2017 1:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.01;  Date: 6/28/2017 1:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.01;  Date: 6/28/2017 2:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.03;  Date: 6/28/2017 2:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.1;  Date: 6/28/2017 2:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.02;  Date: 6/28/2017 2:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.06;  Date: 6/28/2017 3:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.03;  Date: 6/28/2017 3:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.03;  Date: 6/28/2017 3:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.13;  Date: 6/28/2017 3:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.07;  Date: 6/28/2017 4:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.01;  Date: 6/29/2017 8:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.04;  Date: 6/29/2017 8:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.06;  Date: 6/29/2017 8:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.09;  Date: 6/29/2017 9:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.08;  Date: 6/29/2017 9:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.1;  Date: 6/29/2017 9:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.29;  Date: 6/29/2017 9:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.27;  Date: 6/29/2017 10:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.39;  Date: 6/29/2017 10:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.34;  Date: 6/29/2017 10:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.19;  Date: 6/29/2017 10:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.25;  Date: 6/29/2017 11:00:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.53;  Date: 6/29/2017 11:15:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.67;  Date: 6/29/2017 11:30:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.75;  Date: 6/29/2017 11:45:00 AM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.9;  Date: 6/29/2017 12:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.85;  Date: 6/29/2017 12:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.04;  Date: 6/29/2017 12:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.12;  Date: 6/29/2017 12:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.46;  Date: 6/29/2017 1:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.91;  Date: 6/29/2017 1:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 11.61;  Date: 6/29/2017 1:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 11.09;  Date: 6/29/2017 1:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 11.14;  Date: 6/29/2017 2:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.84;  Date: 6/29/2017 2:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.41;  Date: 6/29/2017 2:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.4;  Date: 6/29/2017 2:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.42;  Date: 6/29/2017 3:00:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10.08;  Date: 6/29/2017 3:15:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.98;  Date: 6/29/2017 3:30:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 9.86;  Date: 6/29/2017 3:45:00 PM
+Loading/Adding for SYMBOL---- UVXY is:--Close: 10;  Date: 6/29/2017 4:00:00 PM
+Strategy is running on ... SYMBOL: UVXY
+XXX. OnStrategyStart: Buying Power10000
+XXX.HasPosition: in strategystart: False
+========== OnStrategyStart() completed at ============= 7/9/2017 8:27:18 AM
+Trade series for UVXY is not found in the historical database. The historical series Bar.Time.900 is subscribed instead.
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:00:00 Bar end Time: 08:15:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.45
+OnBarSlice-Bar.End-Time: 6/30/2017 8:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:15:00 Bar end Time: 08:30:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.5
+OnBarSlice-Bar.End-Time: 6/30/2017 8:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:30:00 Bar end Time: 08:45:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.56
+OnBarSlice-Bar.End-Time: 6/30/2017 8:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:45:00 Bar end Time: 09:00:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.65
+OnBarSlice-Bar.End-Time: 6/30/2017 9:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:00:00 Bar end Time: 09:15:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.58
+OnBarSlice-Bar.End-Time: 6/30/2017 9:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:15:00 Bar end Time: 09:30:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.52
+OnBarSlice-Bar.End-Time: 6/30/2017 9:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:30:00 Bar end Time: 09:45:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:True Cond_MaxPctFromTrig:False
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.1955; LastPrice = 9.45; ADX = 28.5823132785989; PctFromTrig = 7.31; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.45
+OnBarSlice-Bar.End-Time: 6/30/2017 9:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:45:00 Bar end Time: 10:00:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.72
+OnBarSlice-Bar.End-Time: 6/30/2017 10:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:00:00 Bar end Time: 10:15:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 10.13
+OnBarSlice-Bar.End-Time: 6/30/2017 10:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:15:00 Bar end Time: 10:30:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.8
+OnBarSlice-Bar.End-Time: 6/30/2017 10:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:30:00 Bar end Time: 10:45:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.76
+OnBarSlice-Bar.End-Time: 6/30/2017 10:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:45:00 Bar end Time: 11:00:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.78
+OnBarSlice-Bar.End-Time: 6/30/2017 11:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:00:00 Bar end Time: 11:15:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.74
+OnBarSlice-Bar.End-Time: 6/30/2017 11:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:15:00 Bar end Time: 11:30:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.92
+OnBarSlice-Bar.End-Time: 6/30/2017 11:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:30:00 Bar end Time: 11:45:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.76
+OnBarSlice-Bar.End-Time: 6/30/2017 11:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:45:00 Bar end Time: 12:00:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.6
+OnBarSlice-Bar.End-Time: 6/30/2017 12:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:00:00 Bar end Time: 12:15:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.57
+OnBarSlice-Bar.End-Time: 6/30/2017 12:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:15:00 Bar end Time: 12:30:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.66
+OnBarSlice-Bar.End-Time: 6/30/2017 12:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:30:00 Bar end Time: 12:45:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.67
+OnBarSlice-Bar.End-Time: 6/30/2017 12:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:45:00 Bar end Time: 13:00:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.71
+OnBarSlice-Bar.End-Time: 6/30/2017 1:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:00:00 Bar end Time: 13:15:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.69
+OnBarSlice-Bar.End-Time: 6/30/2017 1:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:15:00 Bar end Time: 13:30:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.68
+OnBarSlice-Bar.End-Time: 6/30/2017 1:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:30:00 Bar end Time: 13:45:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.74
+OnBarSlice-Bar.End-Time: 6/30/2017 1:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:45:00 Bar end Time: 14:00:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.77
+OnBarSlice-Bar.End-Time: 6/30/2017 2:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:00:00 Bar end Time: 14:15:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.7
+OnBarSlice-Bar.End-Time: 6/30/2017 2:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:15:00 Bar end Time: 14:30:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.7
+OnBarSlice-Bar.End-Time: 6/30/2017 2:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:30:00 Bar end Time: 14:45:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.64
+OnBarSlice-Bar.End-Time: 6/30/2017 2:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:45:00 Bar end Time: 15:00:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:18 AM
+OnBarSlice-Bar.Close: 9.66
+OnBarSlice-Bar.End-Time: 6/30/2017 3:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:00:00 Bar end Time: 15:15:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.68
+OnBarSlice-Bar.End-Time: 6/30/2017 3:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:15:00 Bar end Time: 15:30:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.6
+OnBarSlice-Bar.End-Time: 6/30/2017 3:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:30:00 Bar end Time: 15:45:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.63
+OnBarSlice-Bar.End-Time: 6/30/2017 3:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:45:00 Bar end Time: 16:00:00......on: 6/30/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.73
+OnBarSlice-Bar.End-Time: 6/30/2017 4:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:00:00 Bar end Time: 08:15:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.49
+OnBarSlice-Bar.End-Time: 7/3/2017 8:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:15:00 Bar end Time: 08:30:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.49
+OnBarSlice-Bar.End-Time: 7/3/2017 8:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:30:00 Bar end Time: 08:45:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.47
+OnBarSlice-Bar.End-Time: 7/3/2017 8:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:45:00 Bar end Time: 09:00:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.47
+OnBarSlice-Bar.End-Time: 7/3/2017 9:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:00:00 Bar end Time: 09:15:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.4
+OnBarSlice-Bar.End-Time: 7/3/2017 9:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:15:00 Bar end Time: 09:30:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.41
+OnBarSlice-Bar.End-Time: 7/3/2017 9:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:30:00 Bar end Time: 09:45:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 9.60300000000001; LastPrice = 9.4; ADX = 17.9381115109051; PctFromTrig = 2.11; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.4
+OnBarSlice-Bar.End-Time: 7/3/2017 9:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:45:00 Bar end Time: 10:00:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 9.58850000000001; LastPrice = 9.42; ADX = 18.1247767278823; PctFromTrig = 1.76; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.42
+OnBarSlice-Bar.End-Time: 7/3/2017 10:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:00:00 Bar end Time: 10:15:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 9.57050000000001; LastPrice = 9.33; ADX = 18.650205746386; PctFromTrig = 2.51; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.33
+OnBarSlice-Bar.End-Time: 7/3/2017 10:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:15:00 Bar end Time: 10:30:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.4
+OnBarSlice-Bar.End-Time: 7/3/2017 10:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:30:00 Bar end Time: 10:45:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.4
+OnBarSlice-Bar.End-Time: 7/3/2017 10:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:45:00 Bar end Time: 11:00:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.49
+OnBarSlice-Bar.End-Time: 7/3/2017 11:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:00:00 Bar end Time: 11:15:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.44
+OnBarSlice-Bar.End-Time: 7/3/2017 11:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:15:00 Bar end Time: 11:30:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.47
+OnBarSlice-Bar.End-Time: 7/3/2017 11:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:30:00 Bar end Time: 11:45:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.49
+OnBarSlice-Bar.End-Time: 7/3/2017 11:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:45:00 Bar end Time: 12:00:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.51
+OnBarSlice-Bar.End-Time: 7/3/2017 12:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:00:00 Bar end Time: 12:15:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.9
+OnBarSlice-Bar.End-Time: 7/3/2017 12:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:15:00 Bar end Time: 12:30:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.9
+OnBarSlice-Bar.End-Time: 7/3/2017 12:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:30:00 Bar end Time: 12:45:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.93
+OnBarSlice-Bar.End-Time: 7/3/2017 12:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:45:00 Bar end Time: 13:00:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.97
+OnBarSlice-Bar.End-Time: 7/3/2017 1:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:00:00 Bar end Time: 13:15:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.21
+OnBarSlice-Bar.End-Time: 7/3/2017 1:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:15:00 Bar end Time: 13:30:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.22
+OnBarSlice-Bar.End-Time: 7/3/2017 1:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:30:00 Bar end Time: 13:45:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.16
+OnBarSlice-Bar.End-Time: 7/3/2017 1:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:45:00 Bar end Time: 14:00:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.13
+OnBarSlice-Bar.End-Time: 7/3/2017 2:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:00:00 Bar end Time: 14:15:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.13
+OnBarSlice-Bar.End-Time: 7/3/2017 2:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:15:00 Bar end Time: 14:30:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.12
+OnBarSlice-Bar.End-Time: 7/3/2017 2:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:30:00 Bar end Time: 14:45:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.12
+OnBarSlice-Bar.End-Time: 7/3/2017 2:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:45:00 Bar end Time: 15:00:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.12
+OnBarSlice-Bar.End-Time: 7/3/2017 3:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:00:00 Bar end Time: 15:15:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.11
+OnBarSlice-Bar.End-Time: 7/3/2017 3:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:15:00 Bar end Time: 15:30:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.14
+OnBarSlice-Bar.End-Time: 7/3/2017 3:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:30:00 Bar end Time: 15:45:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.12
+OnBarSlice-Bar.End-Time: 7/3/2017 3:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:45:00 Bar end Time: 16:00:00......on: 7/3/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.11
+OnBarSlice-Bar.End-Time: 7/3/2017 4:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:00:00 Bar end Time: 08:15:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.9
+OnBarSlice-Bar.End-Time: 7/5/2017 8:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:15:00 Bar end Time: 08:30:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.83
+OnBarSlice-Bar.End-Time: 7/5/2017 8:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:30:00 Bar end Time: 08:45:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.77
+OnBarSlice-Bar.End-Time: 7/5/2017 8:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:45:00 Bar end Time: 09:00:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.79
+OnBarSlice-Bar.End-Time: 7/5/2017 9:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:00:00 Bar end Time: 09:15:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.79
+OnBarSlice-Bar.End-Time: 7/5/2017 9:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:15:00 Bar end Time: 09:30:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 9.86
+OnBarSlice-Bar.End-Time: 7/5/2017 9:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:30:00 Bar end Time: 09:45:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.25
+OnBarSlice-Bar.End-Time: 7/5/2017 9:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:45:00 Bar end Time: 10:00:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.21
+OnBarSlice-Bar.End-Time: 7/5/2017 10:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:00:00 Bar end Time: 10:15:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.48
+OnBarSlice-Bar.End-Time: 7/5/2017 10:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:15:00 Bar end Time: 10:30:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.42
+OnBarSlice-Bar.End-Time: 7/5/2017 10:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:30:00 Bar end Time: 10:45:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:19 AM
+OnBarSlice-Bar.Close: 10.06
+OnBarSlice-Bar.End-Time: 7/5/2017 10:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:45:00 Bar end Time: 11:00:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.06
+OnBarSlice-Bar.End-Time: 7/5/2017 11:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:00:00 Bar end Time: 11:15:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.01
+OnBarSlice-Bar.End-Time: 7/5/2017 11:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:15:00 Bar end Time: 11:30:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.1
+OnBarSlice-Bar.End-Time: 7/5/2017 11:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:30:00 Bar end Time: 11:45:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.23
+OnBarSlice-Bar.End-Time: 7/5/2017 11:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:45:00 Bar end Time: 12:00:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.14
+OnBarSlice-Bar.End-Time: 7/5/2017 12:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:00:00 Bar end Time: 12:15:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.04
+OnBarSlice-Bar.End-Time: 7/5/2017 12:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:15:00 Bar end Time: 12:30:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.99
+OnBarSlice-Bar.End-Time: 7/5/2017 12:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:30:00 Bar end Time: 12:45:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.9
+OnBarSlice-Bar.End-Time: 7/5/2017 12:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:45:00 Bar end Time: 13:00:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.87
+OnBarSlice-Bar.End-Time: 7/5/2017 1:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:00:00 Bar end Time: 13:15:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.83
+OnBarSlice-Bar.End-Time: 7/5/2017 1:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:15:00 Bar end Time: 13:30:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.8
+OnBarSlice-Bar.End-Time: 7/5/2017 1:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:30:00 Bar end Time: 13:45:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.83
+OnBarSlice-Bar.End-Time: 7/5/2017 1:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:45:00 Bar end Time: 14:00:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.87
+OnBarSlice-Bar.End-Time: 7/5/2017 2:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:00:00 Bar end Time: 14:15:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.88
+OnBarSlice-Bar.End-Time: 7/5/2017 2:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:15:00 Bar end Time: 14:30:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.77
+OnBarSlice-Bar.End-Time: 7/5/2017 2:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:30:00 Bar end Time: 14:45:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.012; LastPrice = 9.75; ADX = 15.8012321734501; PctFromTrig = 2.62; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.75
+OnBarSlice-Bar.End-Time: 7/5/2017 2:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:45:00 Bar end Time: 15:00:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 9.995; LastPrice = 9.87; ADX = 15.3735470157342; PctFromTrig = 1.25; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.87
+OnBarSlice-Bar.End-Time: 7/5/2017 3:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:00:00 Bar end Time: 15:15:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.83
+OnBarSlice-Bar.End-Time: 7/5/2017 3:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:15:00 Bar end Time: 15:30:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.86
+OnBarSlice-Bar.End-Time: 7/5/2017 3:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:30:00 Bar end Time: 15:45:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.78
+OnBarSlice-Bar.End-Time: 7/5/2017 3:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:45:00 Bar end Time: 16:00:00......on: 7/5/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 9.94
+OnBarSlice-Bar.End-Time: 7/5/2017 4:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:00:00 Bar end Time: 08:15:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.58
+OnBarSlice-Bar.End-Time: 7/6/2017 8:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:15:00 Bar end Time: 08:30:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.54
+OnBarSlice-Bar.End-Time: 7/6/2017 8:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:30:00 Bar end Time: 08:45:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.55
+OnBarSlice-Bar.End-Time: 7/6/2017 8:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:45:00 Bar end Time: 09:00:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.45
+OnBarSlice-Bar.End-Time: 7/6/2017 9:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:00:00 Bar end Time: 09:15:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.45
+OnBarSlice-Bar.End-Time: 7/6/2017 9:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:15:00 Bar end Time: 09:30:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.34
+OnBarSlice-Bar.End-Time: 7/6/2017 9:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:30:00 Bar end Time: 09:45:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.6
+OnBarSlice-Bar.End-Time: 7/6/2017 9:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:45:00 Bar end Time: 10:00:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.65
+OnBarSlice-Bar.End-Time: 7/6/2017 10:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:00:00 Bar end Time: 10:15:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.67
+OnBarSlice-Bar.End-Time: 7/6/2017 10:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:15:00 Bar end Time: 10:30:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.69
+OnBarSlice-Bar.End-Time: 7/6/2017 10:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:30:00 Bar end Time: 10:45:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.6
+OnBarSlice-Bar.End-Time: 7/6/2017 10:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:45:00 Bar end Time: 11:00:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.63
+OnBarSlice-Bar.End-Time: 7/6/2017 11:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:00:00 Bar end Time: 11:15:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.54
+OnBarSlice-Bar.End-Time: 7/6/2017 11:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:15:00 Bar end Time: 11:30:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.46
+OnBarSlice-Bar.End-Time: 7/6/2017 11:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:30:00 Bar end Time: 11:45:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.39
+OnBarSlice-Bar.End-Time: 7/6/2017 11:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:45:00 Bar end Time: 12:00:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.4
+OnBarSlice-Bar.End-Time: 7/6/2017 12:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:00:00 Bar end Time: 12:15:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.47
+OnBarSlice-Bar.End-Time: 7/6/2017 12:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:15:00 Bar end Time: 12:30:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.58
+OnBarSlice-Bar.End-Time: 7/6/2017 12:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:30:00 Bar end Time: 12:45:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.44
+OnBarSlice-Bar.End-Time: 7/6/2017 12:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:45:00 Bar end Time: 13:00:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.48
+OnBarSlice-Bar.End-Time: 7/6/2017 1:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:00:00 Bar end Time: 13:15:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.45
+OnBarSlice-Bar.End-Time: 7/6/2017 1:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:15:00 Bar end Time: 13:30:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: True....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:True Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.505; LastPrice = 10.26; ADX = 26.0554244527455; PctFromTrig = 2.33; IntraDayBarSize15 = 900
+======= OnPositionOpened() Started at =================  7/9/2017 8:27:20 AM
+======= OnPositionOpened() Completed at =================  7/9/2017 8:27:20 AM
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.26
+OnBarSlice-Bar.End-Time: 7/6/2017 1:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:30:00 Bar end Time: 13:45:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: False Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = True; entry_SellShort = False; SMA = 10.505; LastPrice = 10.55; ADX = 24.925687828871; PctFromTrig = -0.43; IntraDayBarSize15 = 900
+============ OnPositionClosed() Started at ============== 7/9/2017 8:27:20 AM
+UVXY_intra-OnPositionClosed()--Entry Price for UVXY -- 10.55
+============ OnPositionClosed() Completed at ============== 7/9/2017 8:27:20 AM
+UVXY: OnBar() - Buy to Cover Market order (LastPrice > sma.Last) log ERROR for symbol: UVXY == System.NullReferenceException: Object reference not set to an instance of an object.
+   at MyStrategy.OnBar(Bar bar) in c:\Users\WarrenR\Documents\OpenQuant\Projects\S012_TF_UVXY_intra\code.cs:line 430
+================== OnBar() Completed at =================  7/9/2017 8:27:20 AM
+OnBarSlice-Bar.Close: 10.55
+OnBarSlice-Bar.End-Time: 7/6/2017 1:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:45:00 Bar end Time: 14:00:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: False Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = False; SMA = 10.508; LastPrice = 10.51; ADX = 23.9382246198565; PctFromTrig = -0.02; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.51
+OnBarSlice-Bar.End-Time: 7/6/2017 2:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:00:00 Bar end Time: 14:15:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: False Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = False; SMA = 10.519; LastPrice = 10.67; ADX = 23.7739091017818; PctFromTrig = -1.44; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.67
+OnBarSlice-Bar.End-Time: 7/6/2017 2:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:15:00 Bar end Time: 14:30:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: False Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = False; SMA = 10.535; LastPrice = 10.66; ADX = 24.02896882246; PctFromTrig = -1.19; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.66
+OnBarSlice-Bar.End-Time: 7/6/2017 2:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:30:00 Bar end Time: 14:45:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: False Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = False; SMA = 10.547; LastPrice = 10.84; ADX = 24.852457060544; PctFromTrig = -2.78; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.84
+OnBarSlice-Bar.End-Time: 7/6/2017 2:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:45:00 Bar end Time: 15:00:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: False Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = False; SMA = 10.552; LastPrice = 10.75; ADX = 25.6171247101935; PctFromTrig = -1.88; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.75
+OnBarSlice-Bar.End-Time: 7/6/2017 3:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:00:00 Bar end Time: 15:15:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.88
+OnBarSlice-Bar.End-Time: 7/6/2017 3:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:15:00 Bar end Time: 15:30:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.97
+OnBarSlice-Bar.End-Time: 7/6/2017 3:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:30:00 Bar end Time: 15:45:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 11.11
+OnBarSlice-Bar.End-Time: 7/6/2017 3:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:45:00 Bar end Time: 16:00:00......on: 7/6/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.94
+OnBarSlice-Bar.End-Time: 7/6/2017 4:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:00:00 Bar end Time: 08:15:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.74
+OnBarSlice-Bar.End-Time: 7/7/2017 8:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:15:00 Bar end Time: 08:30:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.74
+OnBarSlice-Bar.End-Time: 7/7/2017 8:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:30:00 Bar end Time: 08:45:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.62
+OnBarSlice-Bar.End-Time: 7/7/2017 8:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 08:45:00 Bar end Time: 09:00:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.61
+OnBarSlice-Bar.End-Time: 7/7/2017 9:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:00:00 Bar end Time: 09:15:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.59
+OnBarSlice-Bar.End-Time: 7/7/2017 9:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:15:00 Bar end Time: 09:30:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.53
+OnBarSlice-Bar.End-Time: 7/7/2017 9:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:30:00 Bar end Time: 09:45:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.6755; LastPrice = 10.61; ADX = 20.8692202296839; PctFromTrig = 0.61; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.61
+OnBarSlice-Bar.End-Time: 7/7/2017 9:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 09:45:00 Bar end Time: 10:00:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.674; LastPrice = 10.45; ADX = 19.3966427747859; PctFromTrig = 2.1; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.45
+OnBarSlice-Bar.End-Time: 7/7/2017 10:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:00:00 Bar end Time: 10:15:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.6755; LastPrice = 10.48; ADX = 18.2402508084452; PctFromTrig = 1.83; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.48
+OnBarSlice-Bar.End-Time: 7/7/2017 10:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:15:00 Bar end Time: 10:30:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.6875; LastPrice = 10.5; ADX = 17.150327631065; PctFromTrig = 1.75; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.5
+OnBarSlice-Bar.End-Time: 7/7/2017 10:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:30:00 Bar end Time: 10:45:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.6855; LastPrice = 10.51; ADX = 16.0599331460373; PctFromTrig = 1.64; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.51
+OnBarSlice-Bar.End-Time: 7/7/2017 10:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 10:45:00 Bar end Time: 11:00:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.688; LastPrice = 10.56; ADX = 15.204544936657; PctFromTrig = 1.2; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.56
+OnBarSlice-Bar.End-Time: 7/7/2017 11:00:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:00:00 Bar end Time: 11:15:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.6795; LastPrice = 10.5; ADX = 14.5717699208267; PctFromTrig = 1.68; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.5
+OnBarSlice-Bar.End-Time: 7/7/2017 11:15:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:15:00 Bar end Time: 11:30:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.669; LastPrice = 10.45; ADX = 13.6975663870199; PctFromTrig = 2.05; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.45
+OnBarSlice-Bar.End-Time: 7/7/2017 11:30:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:30:00 Bar end Time: 11:45:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.647; LastPrice = 10.4; ADX = 13.5225441631125; PctFromTrig = 2.32; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.4
+OnBarSlice-Bar.End-Time: 7/7/2017 11:45:00 AM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 11:45:00 Bar end Time: 12:00:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.6305; LastPrice = 10.42; ADX = 13.0775369660869; PctFromTrig = 1.98; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.42
+OnBarSlice-Bar.End-Time: 7/7/2017 12:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:00:00 Bar end Time: 12:15:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.601; LastPrice = 10.29; ADX = 13.3465163513411; PctFromTrig = 2.93; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.29
+OnBarSlice-Bar.End-Time: 7/7/2017 12:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:15:00 Bar end Time: 12:30:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.569; LastPrice = 10.33; ADX = 13.7392016111051; PctFromTrig = 2.26; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.33
+OnBarSlice-Bar.End-Time: 7/7/2017 12:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:30:00 Bar end Time: 12:45:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.535; LastPrice = 10.43; ADX = 13.306609174271; PctFromTrig = 1; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.43
+OnBarSlice-Bar.End-Time: 7/7/2017 12:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 12:45:00 Bar end Time: 13:00:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.5085; LastPrice = 10.41; ADX = 12.9049161972107; PctFromTrig = 0.94; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.41
+OnBarSlice-Bar.End-Time: 7/7/2017 1:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:00:00 Bar end Time: 13:15:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.4905; LastPrice = 10.38; ADX = 12.5319155756547; PctFromTrig = 1.05; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.38
+OnBarSlice-Bar.End-Time: 7/7/2017 1:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:15:00 Bar end Time: 13:30:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.468; LastPrice = 10.29; ADX = 12.7187511326293; PctFromTrig = 1.7; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.29
+OnBarSlice-Bar.End-Time: 7/7/2017 1:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:30:00 Bar end Time: 13:45:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.452; LastPrice = 10.3; ADX = 13.2247879957384; PctFromTrig = 1.45; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.3
+OnBarSlice-Bar.End-Time: 7/7/2017 1:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 13:45:00 Bar end Time: 14:00:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.436; LastPrice = 10.29; ADX = 13.2172492969893; PctFromTrig = 1.4; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.29
+OnBarSlice-Bar.End-Time: 7/7/2017 2:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:00:00 Bar end Time: 14:15:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.4225; LastPrice = 10.32; ADX = 13.2102490767222; PctFromTrig = 0.98; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.32
+OnBarSlice-Bar.End-Time: 7/7/2017 2:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:15:00 Bar end Time: 14:30:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.4145; LastPrice = 10.37; ADX = 12.8297865338286; PctFromTrig = 0.43; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.37
+OnBarSlice-Bar.End-Time: 7/7/2017 2:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:30:00 Bar end Time: 14:45:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.4; LastPrice = 10.32; ADX = 12.3505624951728; PctFromTrig = 0.77; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.32
+OnBarSlice-Bar.End-Time: 7/7/2017 2:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 14:45:00 Bar end Time: 15:00:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: True
+........................ ENTRYCOND: False....... Cond_Flat_and_Short_allowed: True Cond_SMA_and_ADX:False Cond_MaxPctFromTrig:True
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; DRI_trend = S; HasPosition = False; entry_SellShort = True; SMA = 10.3915; LastPrice = 10.28; ADX = 12.6410886327392; PctFromTrig = 1.07; IntraDayBarSize15 = 900
+================== OnBar() Completed at =================  7/9/2017 8:27:21 AM
+OnBarSlice-Bar.Close: 10.28
+OnBarSlice-Bar.End-Time: 7/7/2017 3:00:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:00:00 Bar end Time: 15:15:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:22 AM
+OnBarSlice-Bar.Close: 10.33
+OnBarSlice-Bar.End-Time: 7/7/2017 3:15:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:15:00 Bar end Time: 15:30:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:22 AM
+OnBarSlice-Bar.Close: 10.29
+OnBarSlice-Bar.End-Time: 7/7/2017 3:30:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:30:00 Bar end Time: 15:45:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:22 AM
+OnBarSlice-Bar.Close: 10.21
+OnBarSlice-Bar.End-Time: 7/7/2017 3:45:00 PM
+
+
+
+.................................................................................new bar started .....................................................
+UVXY: OnBar(): Bar start Time: 15:45:00 Bar end Time: 16:00:00......on: 7/7/2017 12:00:00 AM
+..................Cond_DRI: False
+================== OnBar() Completed at =================  7/9/2017 8:27:22 AM
+OnBarSlice-Bar.Close: 10.21
+OnBarSlice-Bar.End-Time: 7/7/2017 4:00:00 PM
+============= OnStrategyStop() started at ============ 7/9/2017 8:27:22 AM
+========== OnStrategyStop() completed at ============= 7/9/2017 8:27:22 AM

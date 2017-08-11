@@ -1,0 +1,2064 @@
+Portfolio Summary at: 6/29/2017 9:43:57 AM--(End Of Strategy)
+----------------------------------------------------------------
+
+Number of Portfolio Positions		: 0
+Current Market Value of Positions($)	: 0
+Total Cost of Current Positions($)	: 0
+Current Gain/Loss($)			: 0
+Current BuyingPower($)			: 10010.93
+Current Total Equity($)			: 10010.93
+Current Portfolio Symbols		: 
+Current Strategy Symbols		: UVXY
+
+UVXY: OnStrategyStart(): OnStrategyStart started at 6/29/2017 9:43:56 AM
+UVXY: OnStrategyStop(): OnStrategyStop Started at 6/29/2017 9:43:56 AM
+UVXY: OnStrategyStop(): OnStrategyStop Completed at 6/29/2017 9:43:59 AM
+Portfolio Summary at: 6/29/2017 9:44:22 AM--(Start Of Strategy)
+----------------------------------------------------------------
+
+Number of Portfolio Positions		: 0
+Current Market Value of Positions($)	: 0
+Total Cost of Current Positions($)	: 0
+Current Gain/Loss($)			: 0
+Current BuyingPower($)			: 10010.93
+Current Total Equity($)			: 10010.93
+Current Portfolio Symbols		: 
+Current Strategy Symbols		: UVXY
+
+UVXY: OnStrategyStart(): OnStrategyStart started at 6/29/2017 9:44:21 AM
+UVXY: OnStrategyStart(): TodayHigh: 9.28 TodayL0w: 9.07 D50: 9.175 DRI_trend: S
+UVXY: OnStrategyStart(): OnStrategyStart completed at 6/29/2017 9:44:22 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 9:45:00 AM
+UVXY: OnBar(): Bar start Time: 09:30:00 Bar end Time: 09:45:00
+UVXY: OnBar(): Bar.Open: 9.28; Bar.High: 9.33; Bar Low: 9.27; Bar Close: 9.28
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.071; DRI_trend = L; PctFromTrig = -2.3; ADX = 24.4077487190989; LastPrice = 9.28
+UVXY: OnBar(): OnBar Completed at 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 10:00:00 AM
+UVXY: OnBar(): Bar start Time: 09:45:00 Bar end Time: 10:00:00
+UVXY: OnBar(): Bar.Open: 9.29; Bar.High: 9.36; Bar Low: 9.22; Bar Close: 9.26
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.0785; DRI_trend = S; PctFromTrig = -2; ADX = 25.154749188416; LastPrice = 9.26
+UVXY: OnBar(): In Trading Hours; bar.EndTime = 10:00:00
+UVXY: OnBar(): OnBar Completed at 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 10:15:00 AM
+UVXY: OnBar(): Bar start Time: 10:00:00 Bar end Time: 10:15:00
+UVXY: OnBar(): Bar.Open: 9.26; Bar.High: 9.4; Bar Low: 9.23; Bar Close: 9.39
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.0925; DRI_trend = L; PctFromTrig = -3.27; ADX = 26.1490828307854; LastPrice = 9.39
+UVXY: OnBar(): OnBar Completed at 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 10:30:00 AM
+UVXY: OnBar(): Bar start Time: 10:15:00 Bar end Time: 10:30:00
+UVXY: OnBar(): Bar.Open: 9.39; Bar.High: 9.45; Bar Low: 9.3; Bar Close: 9.32
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.106; DRI_trend = L; PctFromTrig = -2.35; ADX = 27.4207032610658; LastPrice = 9.32
+UVXY: OnBar(): OnBar Completed at 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 10:45:00 AM
+UVXY: OnBar(): Bar start Time: 10:30:00 Bar end Time: 10:45:00
+UVXY: OnBar(): Bar.Open: 9.33; Bar.High: 9.4; Bar Low: 9.18; Bar Close: 9.19
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.115; DRI_trend = S; PctFromTrig = -0.82; ADX = 26.8390042924452; LastPrice = 9.19
+UVXY: OnBar(): In Trading Hours; bar.EndTime = 10:45:00
+UVXY: OnBar(): OnBar Completed at 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 11:00:00 AM
+UVXY: OnBar(): Bar start Time: 10:45:00 Bar end Time: 11:00:00
+UVXY: OnBar(): Bar.Open: 9.19; Bar.High: 9.26; Bar Low: 9.15; Bar Close: 9.24
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.1265; DRI_trend = S; PctFromTrig = -1.24; ADX = 25.923020391343; LastPrice = 9.24
+UVXY: OnBar(): In Trading Hours; bar.EndTime = 11:00:00
+UVXY: OnBar(): OnBar Completed at 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 11:15:00 AM
+UVXY: OnBar(): Bar start Time: 11:00:00 Bar end Time: 11:15:00
+UVXY: OnBar(): Bar.Open: 9.25; Bar.High: 9.59; Bar Low: 9.23; Bar Close: 9.51
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.1505; DRI_trend = L; PctFromTrig = -3.93; ADX = 27.1804208938885; LastPrice = 9.51
+UVXY: OnBar(): OnBar Completed at 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 11:30:00 AM
+UVXY: OnBar(): Bar start Time: 11:15:00 Bar end Time: 11:30:00
+UVXY: OnBar(): Bar.Open: 9.52; Bar.High: 9.72; Bar Low: 9.49; Bar Close: 9.67
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.179; DRI_trend = L; PctFromTrig = -5.35; ADX = 28.8607059433426; LastPrice = 9.67
+UVXY: OnBar(): OnBar Completed at 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 11:45:00 AM
+UVXY: OnBar(): Bar start Time: 11:30:00 Bar end Time: 11:45:00
+UVXY: OnBar(): Bar.Open: 9.68; Bar.High: 9.91; Bar Low: 9.67; Bar Close: 9.75
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.2155; DRI_trend = L; PctFromTrig = -5.8; ADX = 31.007948562094; LastPrice = 9.75
+UVXY: OnBar(): OnBar Completed at 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 12:00:00 PM
+UVXY: OnBar(): Bar start Time: 11:45:00 Bar end Time: 12:00:00
+UVXY: OnBar(): Bar.Open: 9.75; Bar.High: 9.91; Bar Low: 9.69; Bar Close: 9.91
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.258; DRI_trend = L; PctFromTrig = -7.04; ADX = 33.0018167080773; LastPrice = 9.91
+UVXY: OnBar(): OnBar Completed at 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 12:15:00 PM
+UVXY: OnBar(): Bar start Time: 12:00:00 Bar end Time: 12:15:00
+UVXY: OnBar(): Bar.Open: 9.9; Bar.High: 10; Bar Low: 9.77; Bar Close: 9.83
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.298; DRI_trend = L; PctFromTrig = -5.72; ADX = 35.0994297798403; LastPrice = 9.83
+UVXY: OnBar(): OnBar Completed at 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 12:30:00 PM
+UVXY: OnBar(): Bar start Time: 12:15:00 Bar end Time: 12:30:00
+UVXY: OnBar(): Bar.Open: 9.84; Bar.High: 10.05; Bar Low: 9.81; Bar Close: 10.04
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.3485; DRI_trend = L; PctFromTrig = -7.4; ADX = 37.17568626004; LastPrice = 10.04
+UVXY: OnBar(): OnBar Completed at 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 12:45:00 PM
+UVXY: OnBar(): Bar start Time: 12:30:00 Bar end Time: 12:45:00
+UVXY: OnBar(): Bar.Open: 10.03; Bar.High: 10.25; Bar Low: 9.97; Bar Close: 10.12
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.398; DRI_trend = L; PctFromTrig = -7.68; ADX = 39.5406366690105; LastPrice = 10.12
+UVXY: OnBar(): OnBar Completed at 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 1:00:00 PM
+UVXY: OnBar(): Bar start Time: 12:45:00 Bar end Time: 13:00:00
+UVXY: OnBar(): Bar.Open: 10.12; Bar.High: 10.48; Bar Low: 10.08; Bar Close: 10.47
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.468; DRI_trend = L; PctFromTrig = -10.58; ADX = 42.1071290109874; LastPrice = 10.47
+UVXY: OnBar(): OnBar Completed at 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 1:15:00 PM
+UVXY: OnBar(): Bar start Time: 13:00:00 Bar end Time: 13:15:00
+UVXY: OnBar(): Bar.Open: 10.46; Bar.High: 10.97; Bar Low: 10.35; Bar Close: 10.91
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.563; DRI_trend = L; PctFromTrig = -14.09; ADX = 44.991288813574; LastPrice = 10.91
+UVXY: OnBar(): OnBar Completed at 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 1:30:00 PM
+UVXY: OnBar(): Bar start Time: 13:15:00 Bar end Time: 13:30:00
+UVXY: OnBar(): Bar.Open: 10.92; Bar.High: 11.79; Bar Low: 10.78; Bar Close: 11.63
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.6925; DRI_trend = L; PctFromTrig = -19.99; ADX = 48.0948912808411; LastPrice = 11.63
+UVXY: OnBar(): OnBar Completed at 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 1:45:00 PM
+UVXY: OnBar(): Bar start Time: 13:30:00 Bar end Time: 13:45:00
+UVXY: OnBar(): Bar.Open: 11.62; Bar.High: 11.65; Bar Low: 10.78; Bar Close: 11.1
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.7945; DRI_trend = L; PctFromTrig = -13.33; ADX = 50.976807857589; LastPrice = 11.1
+UVXY: OnBar(): OnBar Completed at 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 2:00:00 PM
+UVXY: OnBar(): Bar start Time: 13:45:00 Bar end Time: 14:00:00
+UVXY: OnBar(): Bar.Open: 11.1; Bar.High: 11.25; Bar Low: 10.97; Bar Close: 11.16
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.898; DRI_trend = L; PctFromTrig = -12.75; ADX = 53.6528732502836; LastPrice = 11.16
+UVXY: OnBar(): OnBar Completed at 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 2:15:00 PM
+UVXY: OnBar(): Bar start Time: 14:00:00 Bar end Time: 14:15:00
+UVXY: OnBar(): Bar.Open: 11.15; Bar.High: 11.38; Bar Low: 10.85; Bar Close: 10.85
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 9.9865; DRI_trend = L; PctFromTrig = -8.65; ADX = 56.189877726451; LastPrice = 10.85
+UVXY: OnBar(): OnBar Completed at 6/29/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 2:30:00 PM
+UVXY: OnBar(): Bar start Time: 14:15:00 Bar end Time: 14:30:00
+UVXY: OnBar(): Bar.Open: 10.86; Bar.High: 11; Bar Low: 10.39; Bar Close: 10.4
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 10.0515; DRI_trend = L; PctFromTrig = -3.47; ADX = 55.9267619845848; LastPrice = 10.4
+UVXY: OnBar(): OnBar Completed at 6/29/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 2:45:00 PM
+UVXY: OnBar(): Bar start Time: 14:30:00 Bar end Time: 14:45:00
+UVXY: OnBar(): Bar.Open: 10.39; Bar.High: 10.58; Bar Low: 10.29; Bar Close: 10.41
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 10.108; DRI_trend = L; PctFromTrig = -2.99; ADX = 55.2096073333277; LastPrice = 10.41
+UVXY: OnBar(): OnBar Completed at 6/29/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 3:00:00 PM
+UVXY: OnBar(): Bar start Time: 14:45:00 Bar end Time: 15:00:00
+UVXY: OnBar(): Bar.Open: 10.41; Bar.High: 10.59; Bar Low: 10.34; Bar Close: 10.41
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 10.1655; DRI_trend = L; PctFromTrig = -2.41; ADX = 54.5616619266963; LastPrice = 10.41
+UVXY: OnBar(): OnBar Completed at 6/29/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 3:15:00 PM
+UVXY: OnBar(): Bar start Time: 15:00:00 Bar end Time: 15:15:00
+UVXY: OnBar(): Bar.Open: 10.41; Bar.High: 10.43; Bar Low: 10.05; Bar Close: 10.1
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 10.201; DRI_trend = L; PctFromTrig = 0.99; ADX = 52.6356448590415; LastPrice = 10.1
+UVXY: OnBar(): OnBar Completed at 6/29/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 3:30:00 PM
+UVXY: OnBar(): Bar start Time: 15:15:00 Bar end Time: 15:30:00
+UVXY: OnBar(): Bar.Open: 10.09; Bar.High: 10.09; Bar Low: 9.73; Bar Close: 9.97
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 10.2335; DRI_trend = L; PctFromTrig = 2.57; ADX = 49.6531269012488; LastPrice = 9.97
+UVXY: OnBar(): OnBar Completed at 6/29/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 3:45:00 PM
+UVXY: OnBar(): Bar start Time: 15:30:00 Bar end Time: 15:45:00
+UVXY: OnBar(): Bar.Open: 9.98; Bar.High: 9.98; Bar Low: 9.71; Bar Close: 9.87
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 10.2675; DRI_trend = L; PctFromTrig = 3.87; ADX = 46.8144157216914; LastPrice = 9.87
+UVXY: OnBar(): OnBar Completed at 6/29/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): Started at (clock time) 6/29/2017 4:00:00 PM
+UVXY: OnBar(): Bar start Time: 15:45:00 Bar end Time: 16:00:00
+UVXY: OnBar(): Bar.Open: 9.86; Bar.High: 10.04; Bar Low: 9.78; Bar Close: 9.99
+UVXY: OnBar(): ENTRY CONDITIONS: Values check!; SMA = 10.305; DRI_trend = L; PctFromTrig = 3.06; ADX = 44.3552048253118; LastPrice = 9.99
+UVXY: OnBar(): OnBar Completed at 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.56; HistoricalBar End Time: 6/29/2017 4:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.56; HistoricalBar End Time: 6/29/2017 4:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 4:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.56; HistoricalBar End Time: 6/29/2017 4:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 4:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.54; HistoricalBar End Time: 6/29/2017 4:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.56; HistoricalBar End Time: 6/29/2017 4:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 4:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.54; HistoricalBar End Time: 6/29/2017 4:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.6; HistoricalBar End Time: 6/29/2017 5:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.56; HistoricalBar End Time: 6/29/2017 4:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 4:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.54; HistoricalBar End Time: 6/29/2017 4:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.6; HistoricalBar End Time: 6/29/2017 5:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.62; HistoricalBar End Time: 6/29/2017 5:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.56; HistoricalBar End Time: 6/29/2017 4:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 4:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.54; HistoricalBar End Time: 6/29/2017 4:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.6; HistoricalBar End Time: 6/29/2017 5:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.62; HistoricalBar End Time: 6/29/2017 5:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.66; HistoricalBar End Time: 6/29/2017 5:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.56; HistoricalBar End Time: 6/29/2017 4:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 4:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.54; HistoricalBar End Time: 6/29/2017 4:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.6; HistoricalBar End Time: 6/29/2017 5:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.62; HistoricalBar End Time: 6/29/2017 5:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.66; HistoricalBar End Time: 6/29/2017 5:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 5:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.44; HistoricalBar End Time: 6/28/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.3; HistoricalBar End Time: 6/28/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/28/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/28/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.31; HistoricalBar End Time: 6/28/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/28/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.35; HistoricalBar End Time: 6/28/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.47; HistoricalBar End Time: 6/28/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.37; HistoricalBar End Time: 6/28/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.34; HistoricalBar End Time: 6/28/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.21; HistoricalBar End Time: 6/28/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.18; HistoricalBar End Time: 6/28/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.2; HistoricalBar End Time: 6/28/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.16; HistoricalBar End Time: 6/28/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.12; HistoricalBar End Time: 6/28/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/28/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.11; HistoricalBar End Time: 6/28/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.05; HistoricalBar End Time: 6/28/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/28/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/28/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.02; HistoricalBar End Time: 6/28/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/28/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.03; HistoricalBar End Time: 6/28/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.13; HistoricalBar End Time: 6/28/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.07; HistoricalBar End Time: 6/28/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.01; HistoricalBar End Time: 6/29/2017 8:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.04; HistoricalBar End Time: 6/29/2017 8:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.06; HistoricalBar End Time: 6/29/2017 8:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.09; HistoricalBar End Time: 6/29/2017 9:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.08; HistoricalBar End Time: 6/29/2017 9:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.1; HistoricalBar End Time: 6/29/2017 9:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.28; HistoricalBar End Time: 6/29/2017 9:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.26; HistoricalBar End Time: 6/29/2017 10:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.39; HistoricalBar End Time: 6/29/2017 10:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.32; HistoricalBar End Time: 6/29/2017 10:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.19; HistoricalBar End Time: 6/29/2017 10:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.24; HistoricalBar End Time: 6/29/2017 11:00:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.51; HistoricalBar End Time: 6/29/2017 11:15:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.67; HistoricalBar End Time: 6/29/2017 11:30:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.75; HistoricalBar End Time: 6/29/2017 11:45:00 AM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.91; HistoricalBar End Time: 6/29/2017 12:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.83; HistoricalBar End Time: 6/29/2017 12:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.04; HistoricalBar End Time: 6/29/2017 12:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.12; HistoricalBar End Time: 6/29/2017 12:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.47; HistoricalBar End Time: 6/29/2017 1:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.91; HistoricalBar End Time: 6/29/2017 1:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.63; HistoricalBar End Time: 6/29/2017 1:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.1; HistoricalBar End Time: 6/29/2017 1:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 11.16; HistoricalBar End Time: 6/29/2017 2:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.85; HistoricalBar End Time: 6/29/2017 2:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.4; HistoricalBar End Time: 6/29/2017 2:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 2:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.41; HistoricalBar End Time: 6/29/2017 3:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 10.1; HistoricalBar End Time: 6/29/2017 3:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.97; HistoricalBar End Time: 6/29/2017 3:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.87; HistoricalBar End Time: 6/29/2017 3:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.99; HistoricalBar End Time: 6/29/2017 4:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.56; HistoricalBar End Time: 6/29/2017 4:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 4:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.54; HistoricalBar End Time: 6/29/2017 4:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.6; HistoricalBar End Time: 6/29/2017 5:00:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.62; HistoricalBar End Time: 6/29/2017 5:15:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.66; HistoricalBar End Time: 6/29/2017 5:30:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 5:45:00 PM
+UVXY: OnBar(): (outside trading hours) HistoricalBar Close: 9.65; HistoricalBar End Time: 6/29/2017 6:00:00 PM
+Portfolio Summary at: 6/29/2017 6:01:55 PM--(End Of Strategy)
+----------------------------------------------------------------
+
+Number of Portfolio Positions		: 0
+Current Market Value of Positions($)	: 0
+Total Cost of Current Positions($)	: 0
+Current Gain/Loss($)			: 0
+Current BuyingPower($)			: 10010.93
+Current Total Equity($)			: 10010.93
+Current Portfolio Symbols		: 
+Current Strategy Symbols		: UVXY
+
+UVXY: OnStrategyStop(): OnStrategyStop Started at 6/29/2017 6:01:55 PM
+UVXY: OnStrategyStop(): OnStrategyStop Completed at 6/29/2017 6:01:57 PM
